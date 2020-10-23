@@ -14,4 +14,5 @@ A Collection of conda related resources and tools
 ### Environments
 ### Tools
 ## Tips & Tricks
-
+### Multi Users
+1. [Anaconda for multi user](https://medium.com/@pjptech/installing-anaconda-for-multiple-users-650b2a6666c6)
